@@ -1,1 +1,2 @@
-# rock-paper-scissor-
+# ROCK PAPER SCISSOR
+play your move with us
